@@ -11,6 +11,6 @@
     
     // this should be the place for individual application code.
     zpm "install isc.json"
- 
+    zpm "list"
     halt
 
